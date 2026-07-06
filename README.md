@@ -76,6 +76,8 @@ Auto-generate or get help to choose or improve files or file contents.
 - [Weallcontribute](https://github.com/WeAllJS/weallcontribute) –
   Command-line tool for automatically generating and updating CONTRIBUTING.md
   guidelines for your projects.
+- [Commit Changelog Generator](https://github.com/ebroadwayAI/commit-changelog-action) –
+  GitHub Action and CLI that generates a grouped changelog (New / Improved / Fixed) from Conventional Commits, with zero dependencies.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
